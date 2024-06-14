@@ -1,0 +1,5 @@
+---
+# tasks file for pink_milk
+- name: Print something
+  ansible.builtin.debug:
+    msg: "I'm Rick James!"
